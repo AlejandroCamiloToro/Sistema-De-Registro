@@ -2,6 +2,6 @@
 
 -construccion de Proyecto
 
--para Ejecutar el sistema se debe poner  :
+para Ejecutar el sistema se debe poner:
 
-'''npm instal react'''
+'''npm install react'''
